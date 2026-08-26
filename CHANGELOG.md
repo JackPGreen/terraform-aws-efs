@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [2.2.1](https://github.com/terraform-aws-modules/terraform-aws-efs/compare/v2.2.0...v2.2.1) (2026-08-26)
+
+### Bug Fixes
+
+* Update GitHub Actions and pre-commit hook versions ([#54](https://github.com/terraform-aws-modules/terraform-aws-efs/issues/54)) ([d026c57](https://github.com/terraform-aws-modules/terraform-aws-efs/commit/d026c57173fd6b7eba5406652511fd36a5e726fd))
+
 ## [2.2.0](https://github.com/terraform-aws-modules/terraform-aws-efs/compare/v2.1.0...v2.2.0) (2026-02-12)
 
 ### Features
